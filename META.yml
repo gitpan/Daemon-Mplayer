@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Daemon-Mplayer
-version:            0.007
+version:            0.009
 abstract:           Daemonize mplayer
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
